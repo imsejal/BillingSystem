@@ -10,12 +10,12 @@ Administrator Mode:
 Add products with details such as product code, name, price, and discount.
 Modify existing product information.
 Delete products from the system.
-Buyer Mode:
 
-Display a list of available products.
+Buyer Mode: Display a list of available products.
 Select products for purchase.
+
 Calculate and display the total cost of selected products.
-**Contributing
-Contributions to this Billing System project are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.**
+# Contributing
+Contributions to this Billing System project are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
 # Enjoy using the Billing System, and feel free to customize and extend it to fit your specific business needs. Happy coding! 💼📋
